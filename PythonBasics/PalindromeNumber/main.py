@@ -11,4 +11,4 @@ class Solution(object):
             rev = (rev * 10) + ( y % 10)
             y = y // 10
 
-        return x == rev
+        return x == rev 
