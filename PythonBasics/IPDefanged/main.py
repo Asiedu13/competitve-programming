@@ -3,4 +3,4 @@ class Solution(object):
         split = address.split(".")
         defanged = "[.]".join(split)
 
-        return defange
+        return defanged
